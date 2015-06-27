@@ -15,10 +15,10 @@
 		CheckForUpdates		[!$OSX]		{	text="#steam_menu_checkforupdates"		command="CheckForUpdates" }
 
 		// one of these will be invisible
-		UpdateVideoDrivers	[$WINDOWS||$LINUX]	{	text="#steam_menu_updatevendorgraphicscard"		command="CheckForVideoDriverUpdates" }
+		UpdateVideoDrivers	[$WINDOWS]	{	text="#steam_menu_updatevendorgraphicscard"		command="CheckForVideoDriverUpdates" }
 		Divider				[$WINDOWS||$LINUX]	{}
 
-		CheckForVideoDriverUpdates	[$WINDOWS||$LINUX]	{	text="#steam_menu_checkforvideodriverupdates"	command="CheckForVideoDriverUpdates" }
+		CheckForVideoDriverUpdates	[$WINDOWS]	{	text="#steam_menu_checkforvideodriverupdates"	command="CheckForVideoDriverUpdates" }
 		Divider				[$WINDOWS||$LINUX]	{}
 
 		BackupGames						{	text="#steam_menu_backupgames"			command="backupgames" }
