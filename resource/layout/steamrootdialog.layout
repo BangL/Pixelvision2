@@ -326,7 +326,12 @@
 			inset="0 0 0 0"
 		}
 		
-		ClientTitle [!$OSX]
+		ClientTitle [$LINUX]
+		{
+			inset="-200 -200 0 0" // Hack to hide the label
+		}
+		
+		ClientTitle [$WINDOWS]
 		{
 			textcolor=none		
 		}
