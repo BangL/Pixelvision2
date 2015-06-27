@@ -3273,7 +3273,8 @@ steam.styles
 		{
 			textcolor="label"
 			selectedtextcolor="TextSelected"
-			font-family="Lucida Console"
+			font-family="Lucida Console" [$WINDOWS]
+			font-family="Liberation Mono" [$LINUX]
 			font-family="Menlo" [$OSX]
 			render_bg
 			{
@@ -3508,7 +3509,8 @@ steam.styles
 			textcolor="Highlight3"
 			selectedtextcolor="TextSelected"
 			selectedbgcolor="Focus"
-			font-family="basefont"
+			font-family="basefont" [$WINDOWS]
+			font-family="Liberation Mono" [$LINUX]
 			font-family="Menlo" [$OSX]
 		}
 
@@ -3517,7 +3519,8 @@ steam.styles
 			textcolor="text"
 			selectedtextcolor="TextSelected"
 			selectedbgcolor="Focus"
-			font-family="Lucida Console"
+			font-family="Lucida Console" [$WINDOWS]
+			font-family="Liberation Mono" [$LINUX]
 			font-family="Menlo" [$OSX]
 		}
 
