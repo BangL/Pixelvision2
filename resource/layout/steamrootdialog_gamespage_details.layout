@@ -186,6 +186,7 @@
 			inset="-9 0 0 0"
 			textcolor=label2
 			font-size=17
+			font-size=14 [$LINUX]
 			font-family="Segoe WP"
 			font-weight=700
 			font-style=uppercase;
@@ -198,6 +199,7 @@
 			inset="-9 0 0 0"
 			textcolor=GameDetailsRed
 			font-size=17
+			font-size=14 [$LINUX]
 			font-family="Segoe WP"
 			font-weight=700
 			font-style=uppercase;
@@ -210,6 +212,7 @@
 			inset="-9 0 0 0"
 			textcolor=GameDetailsGreen
 			font-size=17
+			font-size=14 [$LINUX]
 			font-family="Segoe WP"
 			font-weight=700
 			font-style=uppercase;
@@ -222,6 +225,7 @@
 			inset="-9 0 0 0"
 			textcolor=GameDetailsBlue
 			font-size=17
+			font-size=14 [$LINUX]
 			font-family="Segoe WP"
 			font-weight=700
 			font-style=uppercase;

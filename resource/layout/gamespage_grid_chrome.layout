@@ -54,6 +54,7 @@
 			inset="1 1 0 0 "
 			textcolor="White"
 			font-size=15
+			font-size=13 [$LINUX]
 			font-family=semibold
 			bgcolor="none"
 		}
@@ -62,6 +63,7 @@
 		{   
 			textcolor="Text"
 			font-size=16
+			font-size=14 [$LINUX]
 			font-family=semibold
 			font-style=uppercase
 			padding-left=23
@@ -86,6 +88,7 @@
 		{   
 			textcolor="Text"
 			font-size=16
+			font-size=14 [$LINUX]
 			font-family=semibold
 			font-style=uppercase
 			padding-left=22

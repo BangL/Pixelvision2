@@ -41,6 +41,7 @@
 		{
 			inset="-3 -17 0 0"
 			font-size=18
+			font-size=15 [$LINUX]
 			textcolor="Text2"
 			font-family=basefont
 			font-style=outerglow

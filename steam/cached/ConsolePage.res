@@ -89,6 +89,7 @@
 			shadowtextcolor="Text"
 			font-family=basefont
 			font-size=14
+			font-size=13 [$LINUX]
 			font-weight=400
 			bgcolor="PropertySheetBG"
 			render

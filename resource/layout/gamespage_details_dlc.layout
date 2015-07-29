@@ -89,6 +89,7 @@
 			inset="8 0 0 0"
 			textcolor="Label"
 			font-size=13
+			font-size=12 [$LINUX]
 			font-family=semibold
 			font-style="outerglow, uppercase"
 			font-outerglow-color="TextD"
@@ -144,6 +145,7 @@
 			textcolor="Label"
 			selectedtextcolor="Label"	
 			font-size=15
+			font-size=13 [$LINUX]
 			render_bg {}
 		}
 

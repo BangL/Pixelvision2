@@ -42,6 +42,7 @@
 			inset="2 -1 0 1"
 			textcolor="Text"
 			font-size=16
+			font-size=14 [$LINUX]
 			font-family=semibold
 			font-weight=400
 			font-style=regular
@@ -82,6 +83,7 @@
 			inset="23 0 0 0"
 			textcolor="Text"
 			font-size=16
+			font-size=14 [$LINUX]
 			font-family=semibold
 			font-weight=400
 			font-style=uppercase
@@ -128,6 +130,7 @@
 			inset="23 0 0 0"
 			textcolor="Text"
 			font-size=16
+			font-size=14 [$LINUX]
 			font-family=semibold
 			font-weight=400
 			font-style=uppercase
@@ -174,6 +177,7 @@
 			inset="23 0 0 0"
 			textcolor="Text"
 			font-size=16
+			font-size=14 [$LINUX]
 			font-family=semibold
 			font-weight=400
 			font-style=uppercase
@@ -220,6 +224,7 @@
             inset="23 0 0 0"
 			textcolor="Text"
 			font-size=16
+			font-size=14 [$LINUX]
 			font-family=semibold
 			font-weight=400
 			font-style=uppercase
@@ -266,6 +271,7 @@
             inset="23 0 0 0"
 			textcolor="Text"
 			font-size=16
+			font-size=14 [$LINUX]
 			font-family=semibold
 			font-weight=400
 			font-style=uppercase

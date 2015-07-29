@@ -149,6 +149,7 @@
 		{
 			textcolor="text"
 			font-size=16
+			font-size=14 [$LINUX]
 			font-family=basefont
 			font-style="regular"
 			padding-top=0
@@ -164,6 +165,7 @@
 		{
 			textcolor="text"
 			font-size=16
+			font-size=14 [$LINUX]
 			font-family=basefont
 			font-style="regular"
 			padding-top=0
@@ -184,6 +186,7 @@
 		{
 			textcolor="Text"
 			font-size=14
+			font-size=13 [$LINUX]
 			font-family=basefont
 		}
 		
@@ -191,6 +194,7 @@
 		{
 			textcolor="Label"
 			font-size=14
+			font-size=13 [$LINUX]
 			font-family=basefont
 		}
 		
@@ -198,6 +202,7 @@
 		{
 			textcolor="GameDetailsBlue"
 			font-size="17"
+			font-size="14" [$LINUX]
 			font-family=semibold
 			font-weight="500"
 			padding-top="0"
@@ -208,6 +213,7 @@
 		{
 			textcolor="Highlight2"
 			font-size="20"
+			font-size="16" [$LINUX]
 			font-family=basefont
 			font-weight="400"
 			font-style=outerglow
@@ -237,6 +243,7 @@
 			inset="75 0 0 0"
 			font-family=semibold
 			font-size=16
+			font-size=14 [$LINUX]
 			font-weight=400
 			textcolor="White"
 			font-style="uppercase"

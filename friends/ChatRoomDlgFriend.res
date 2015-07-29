@@ -136,6 +136,7 @@
 		EmoticonMenuItemStyle
 		{
 			font-size=22
+			font-size=18 [$LINUX]
 			padding-left=-2
 			bgcolor=none
 		}
@@ -229,6 +230,7 @@
 		label
 		{
 			font-size=13
+			font-size=12 [$LINUX]
 			font-family=semibold
 			font-style=outerglow
 			font-outerglow-color="TextD"

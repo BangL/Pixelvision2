@@ -26,6 +26,7 @@ gameoverlay.styles
 		detailsboxtitle
 		{
 			font-size=28
+			font-size=22 [$LINUX]
 			font-family=basefont
 			font-style=uppercase
 		}

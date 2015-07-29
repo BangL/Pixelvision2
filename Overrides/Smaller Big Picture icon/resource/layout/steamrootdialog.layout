@@ -473,6 +473,7 @@
 			inset="-3 -3 3 0"
 			textcolor=Highlight2
 			font-size=14
+			font-size=13 [$LINUX]
 			font-family=semibold
 			font-style=outerglow
 			font-outerglow-color=TextD

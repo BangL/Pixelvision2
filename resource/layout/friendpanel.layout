@@ -137,6 +137,7 @@
 			font-family=basefont
 			textcolor="label"
 			font-size=14
+			font-size=13 [$LINUX]
 		}
 		
 		menuButtonStyle
@@ -160,18 +161,21 @@
 		{
 			font-family=basefont
 			font-size=14
+			font-size=13 [$LINUX]
 		}
 		
 		controlPanelLinkStyle:hover
 		{
 			font-family=basefont
 			font-size=14
+			font-size=13 [$LINUX]
 		}
 		
 		statusStyle
 		{
 			font-family=basefont
 			font-size=14
+			font-size=13 [$LINUX]
 		}
 		
 		inviteLinkStyle

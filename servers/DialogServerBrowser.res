@@ -57,6 +57,7 @@
 		status
 		{
 			font-size=13
+			font-size=12 [$LINUX]
 			font-family=semibold
 			font-style=outerglow
 			font-outerglow-color="TextD"

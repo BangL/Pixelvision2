@@ -7,22 +7,26 @@
 		emptylisttext // General
 		{
 			font-size="18"
+			font-size="16" [$LINUX]
 		}
 		
 		LibrarySearch
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		NavLabel
 		{
 			font-size=17 [!$OSX]
+			font-size=15 [$LINUX]
 			font-size=18 [$OSX] 
 		}
 		
 		NavLabel2
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		NavLabel2 [$OSX]
@@ -33,86 +37,103 @@
 		headertextlarge // Game Title
 		{
 			font-size=32 // Do not modify.
+			font-size=25 [$LINUX]
 		}
 		
 		headertext // Subheader
 		{
 			font-size=16
+			font-size=15 [$LINUX]
 		}
 		
 		headertext-red
 		{
 			font-size=16
+			font-size=15 [$LINUX]
 		}
 
 		headertext-green
 		{
 			font-size=16
+			font-size=15 [$LINUX]
 		}
 
 		headertext-blue
 		{
 			font-size=16
+			font-size=15 [$LINUX]
 		}
 		
 		headertext2 // GameHub
 		{
 			font-size=16
+			font-size=15 [$LINUX]
 		}
 		
 		infolabel // Friends (+ "Locked Achievements" & Screenshots)
 		{
 			font-size=19
+			font-size=16 [$LINUX]
 		}
 		
 		mostrecent_label // Achievements
 		{
 			font-size=18
+			font-size=16 [$LINUX]
 		}
 		
 		mostrecent_name
 		{
 			font-size=20
+			font-size=18 [$LINUX]
 		}
 		
 		mostrecent_unlockedsofar
 		{
 			font-size=18
+			font-size=16 [$LINUX]
 		}
 		
 		everythinglabel
 		{
 			font-size=18
+			font-size=16 [$LINUX]
 		}
 		
 		title_label // News
 		{
 			font-size="20"
+			font-size="18" [$LINUX]
 		}
 		
 		date_and_author
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		newsitem_body
 		{
 			font-size=18
+			font-size=16 [$LINUX]
 		}
 		
 		"newsitem_body url"
 		{
 			font-size=18
+			font-size=16 [$LINUX]
 		}
 		
 		more_link
 		{
 			font-size=18
+			font-size=16 [$LINUX]
 		}
 		
 		bodycontent // Welcome & Non-Steam
 		{
 			font-size=18
+			font-size=16 [$LINUX]
 		}
 		
 		// -- Music Pages
@@ -120,21 +141,29 @@
 		EmptyDatabaseText
 		{
 			font-size="18"
+			font-size="16" [$LINUX]
 		}
 		
 		CrawlingText
 		{
 			font-size="18"
+			font-size="16" [$LINUX]
 		}
 		
 		"MusicPage_Details_Content ListPanel"
 		{
 			font-size=18
+			font-size=16 [$LINUX]
 		}
 		
-		"MusicPage_Details_Content ListPanelColumnHeader" [!$OSX]
+		"MusicPage_Details_Content ListPanelColumnHeader" [$WINDOWS]
 		{
 			font-size=17
+		}
+		
+		"MusicPage_Details_Content ListPanelColumnHeader" [$LINUX]
+		{
+			font-size=15
 		}
 		
 		"MusicPage_Details_Content ListPanelColumnHeader" [$OSX]
@@ -145,52 +174,62 @@
 		PositionLabelStyle
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		TrackLabelStyle
 		{
 			font-size=18
+			font-size=16 [$LINUX]
 		}
 		
 		TracksInfoLabelStyle
 		{
 			font-size=18
+			font-size=16 [$LINUX]
 		}
 		
 		TrackStyle
 		{
 			font-size=18
+			font-size=16 [$LINUX]
 		}
 		
 		AdditionalActionButtonStyle
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 			font-size=16 [$OSX]
 		}
 		
 		ActionButtonStyle
 		{
 			font-size=19
+			font-size=17 [$LINUX]
 		}
 		
 		MusicListPanelInterior
 		{
 			font-size=18
+			font-size=16 [$LINUX]
     	}
 		
 		StatusStyle
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		StatusStyleDim
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		InfoLabelStyle
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		// -- News Updates Dialog
@@ -198,6 +237,7 @@
 		"CProductMarketingDialog Button"
 		{
 			font-size=16
+			font-size=14 [$LINUX]
 		}
 		
 		// -- steam.styles
@@ -205,43 +245,51 @@
 		Button
 		{     
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		CFriendsListSectionAffordance
 		{     
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		CFriendsListSectionHeader
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 			font-size=16 [$OSX]
 		}
 		
 		CFriendPanel
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 			font-size=16 [$OSX]
 		}
 		
 		CheckButton
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		ComboBox
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		FrameTitle
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		FriendsList
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		FriendsTitle [$OSX]
@@ -252,168 +300,200 @@
 		Label
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		ListPanel
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		"CGamesListPanel"
 		{
 			font-size=18
+			font-size=16 [$LINUX]
 		}
 		
 		"GameColumn_BigText"
 		{
 			font-size=17 // Do not modify.
+			font-size=14 [$LINUX]
 		}
 		
 		ListPanelCheckBox
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		"ListPanelColumnheader ListPanelCheckBox"
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		ListPanelColumnheader
 		{
 			font-size=18
-			font-size=16 [$OSX]
+			font-size=16 [$OSX||$LINUX]
 		}
 		
 		"Csteamrootdialog ListPanelColumnheader"
 		{
 			font-size=16 // Do not modify.
+			font-size=14 [$LINUX]
 			font-size=13 [$OSX]
 		}
 		
 		ListPanelInterior
 		{     
 			font-size=18
+			font-size=16 [$LINUX]
 		}
 		
 		"ListPanel RichText"
 		{
 			font-size=18
+			font-size=16 [$LINUX]
 		}
 		
 		"ListPanel RichText url" 
 		{
 			font-size=18
+			font-size=16 [$LINUX]
 		}
 		
 		MainNav
 		{
 			font-size=21 // Do not modify.
+			font-size=17 [$LINUX]
 		}
 		
 		MenuButton
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		MenuItem
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		Notification
 		{
 			font-size=18
+			font-size=16 [$LINUX]
 		}
 		
 		PageTab
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		Panel
 		{ 
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		RadioButton
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		RichText
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		"RichText url"
 		{
 			font-size=17
+			font-size=16 [$LINUX]
 		}
 		
 		"RichText bold"
 		{
 			font-size=18
+			font-size=16 [$LINUX]
 		}
 		
 		"RichText emphasis"
 		{
 			font-size=18
+			font-size=16 [$LINUX]
 		}
 		
 		SectionedListPanel
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		Slider // Structural, do not modify.
 		{
 			font-size=10
+			font-size=9 [$LINUX]
 		}
 		
 		StatusLabel
 		{
 			font-size=17
+			font-size=16 [$LINUX]
 		}
 		
 		TextEntry
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		TextEntryLarge
 		{
 			font-size=24 // Do not modify.
+			font-size=19 [$LINUX]
 		}
 		
 		TextEntryURL
 		{
 			font-size=17
+			font-size=16 [$LINUX]
 		}
 		
 		ToggleButton
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		tooltip_headline
 		{
 			font-size=18
+			font-size=16 [$LINUX]
 		}
 		
 		TreeNodeText
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		URLLabel
 		{
 			font-size=17
+			font-size=16 [$LINUX]
 		}
 		
 		URLLabelSimple
 		{
 			font-size=17
+			font-size=16 [$LINUX]
 		}
 		
 		URLLabelSimple [$OSX]
@@ -424,37 +504,44 @@
 		CConsoleHistory // Do not modify.
 		{
 			font-size=9 // Lucida Console
+			font-size=13 [$LINUX]
 			font-size=14 [$OSX] // Menlo
 		}
 		
 		WrapPanel
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		"html-findbar"
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		gamedetails-headerlabel
 		{
 			font-size="17" // Do not modify.
+			font-size="14" [$LINUX]
 		}
 		
 		gamedetails-headerlabel-red
 		{
 			font-size="17" // Do not modify.
+			font-size="14" [$LINUX]
 		}
 		
 		gamedetails-headerlabel-green
 		{
 			font-size="17" // Do not modify.
+			font-size="14" [$LINUX]
 		}
 		
 		gamedetails-headerlabel-blue
 		{
 			font-size="17" // Do not modify.
+			font-size="14" [$LINUX]
 		}
 		
 		console_text_error // Do not modify.
@@ -466,62 +553,74 @@
 		console_text // Do not modify.
 		{
 			font-size=9 // Lucida Console
+			font-size=13 [$LINUX]
 			font-size=14 [$OSX] // Menlo
 		}
 		
 		friends_chat_text
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		friends_chat_text_self
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		friends_chat_event
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		friends_chat_bright_event
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		friends_chat_url
 		{
 			font-size=17
+			font-size=16 [$LINUX]
 		}
 		
 		friends_chat_name_ingame
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		friends_chat_self
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		friends_chat_name
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		friends_chat_accountid
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		friends_chat_securitylink
 		{
 			font-size=17
+			font-size=15 [$LINUX]
 		}
 		
 		Chat_MenuButton_withChrome
 		{
 			font-size="17"
+			font-size="15" [$LINUX]
 		}
 	}
 }

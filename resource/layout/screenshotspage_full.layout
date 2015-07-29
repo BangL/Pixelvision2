@@ -33,12 +33,14 @@
 		titlelabel
 		{
 			font-size=24
+			font-size=19 [$LINUX]
 			textcolor=Label
 		}
 		
 		captionlabel
 		{
 			font-size=24
+			font-size=19 [$LINUX]
 			textcolor=blue
 		}
 	}

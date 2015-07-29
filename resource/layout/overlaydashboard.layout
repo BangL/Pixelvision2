@@ -95,6 +95,7 @@
 		{
 			font-family=basefont
 			font-size=46
+			font-size=37 [$LINUX]
 			textcolor=text
 		}
 		
@@ -119,6 +120,7 @@
 		{
 			textcolor=highlight2r
 			font-size=14
+			font-size=13 [$LINUX]
 			font-style=uppercase
 		}
 		

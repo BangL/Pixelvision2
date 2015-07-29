@@ -52,6 +52,7 @@
 			inset="-3 -8 0 0"
 			textcolor="Text2"
 			font-size=18
+			font-size=15 [$LINUX]
 			font-family=basefont
 	     	render_bg
 	     	{

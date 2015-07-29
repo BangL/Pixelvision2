@@ -54,12 +54,14 @@
 		{
 			font-family=basefont
 			font-size=46
+			font-size=37 [$LINUX]
 			textcolor=text
 		}
 
 		clocksuffix
 		{
 			font-size=24
+			font-size=19 [$LINUX]
 			padding-top=10
 			font-weight=400
 			font-style=uppercase;

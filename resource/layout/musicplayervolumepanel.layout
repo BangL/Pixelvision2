@@ -17,6 +17,7 @@
 		{
 			font-family=basefont
 			font-size=16
+			font-size=14 [$LINUX]
 			bgcolor=none
 		}
 		

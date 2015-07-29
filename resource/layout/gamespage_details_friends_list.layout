@@ -25,6 +25,7 @@
 			inset="-3 29 0 0"
 			textcolor="Text2"
 			font-size=14
+			font-size=13 [$LINUX]
 			font-family=basefont
 			font-style=outerglow
 			font-outerglow-color="TextD"

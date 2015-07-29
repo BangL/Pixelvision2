@@ -29,6 +29,7 @@
 			inset-left=16
 			textcolor=Highlight2
 			font-size=16
+			font-size=14 [$LINUX]
 			font-family=semibold
 			font-style=outerglow
 			font-outerglow-color=TextD

@@ -133,6 +133,7 @@
 		{
 			bgcolor	   none
 			font-size   "15"
+			font-size   "13" [$LINUX]
 			textcolor   "label"
 			padding-top	"0"
 	    }
@@ -141,6 +142,7 @@
 		{
 			bgcolor	   none
 			font-size   "15"
+			font-size   "13" [$LINUX]
 			textcolor   "text"
 			padding-top	"0"
 		}
@@ -148,6 +150,7 @@
         LabelDwnld
         {
             font-size="14"
+			font-size="13" [$LINUX]
 			font-family=basefont
             font-weight=700
         }
@@ -161,6 +164,7 @@
         {
 			textcolor="Text"
 			font-size=18
+			font-size=15 [$LINUX]
 			font-family=basefont
 			font-style="regular"
         }
@@ -169,6 +173,7 @@
         {
 			textcolor="Label"
 			font-size=16
+			font-size=14 [$LINUX]
 			font-family=basefont
 			font-style="regular"
         }
@@ -177,6 +182,7 @@
         {
 			textcolor="TextTitle"
 			font-size=18
+			font-size=15 [$LINUX]
 			font-family=basefont
 			font-style="uppercase"
         }
@@ -185,6 +191,7 @@
         {
             textcolor="text"
 			font-size="18"
+			font-size="15" [$LINUX]
 			font-family=basefont
             font-style="uppercase"
         }

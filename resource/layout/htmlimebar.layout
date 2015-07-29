@@ -12,6 +12,7 @@
 		{
 			// vary font size for legibility in CJK languages
 			font-size=18
+			font-size=15 [$LINUX]
 			bgcolor="none"
 			render_bg
 			{

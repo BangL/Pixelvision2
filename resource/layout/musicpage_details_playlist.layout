@@ -45,6 +45,7 @@
 			padding-left=10
 			padding-right=10
 			font-size=30
+			font-size=24 [$LINUX]
 			textcolor=Text
 			font-family=basefont
 			font-weight=400

@@ -184,6 +184,7 @@
 			inset=2
 			textcolor="222 222 222 255"
 			font-size=17
+			font-size=14 [$LINUX]
 			font-style="italic"
 		}
 		
@@ -195,6 +196,7 @@
 		publishcharsleft
 		{
 			font-size=13
+			font-size=12 [$LINUX]
 			font-family=semibold
 			font-style=uppercase,outerglow
 			font-outerglow-color="TextD"
@@ -206,6 +208,7 @@
 		{
 			textcolor="255 0 0 255"
 			font-size=13
+			font-size=12 [$LINUX]
 			font-family=semibold
 			font-style=uppercase,outerglow
 			font-outerglow-color="TextD"
@@ -257,6 +260,7 @@
 		LargeSelectionCount
 		{
 			font-size=60
+			font-size=48 [$LINUX]
 			font-family=basefont
 			font-weight=700
 		}
@@ -264,6 +268,7 @@
 		NoSelectionTitle
 		{
 			font-size=24
+			font-size=19 [$LINUX]
 			font-family=basefont
 			font-weight=400
 		}
@@ -271,6 +276,7 @@
 		NoSelectionInstructions
 		{
 			font-size=16
+			font-size=14 [$LINUX]
 			font-family=basefont
 		}
 		

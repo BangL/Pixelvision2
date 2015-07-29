@@ -70,6 +70,7 @@
 			padding-left=10
 			padding-right=10
 			font-size=30
+			font-size=24 [$LINUX]
 			textcolor=Label
 			font-family=basefont
 			font-weight=400
@@ -83,6 +84,7 @@
 			padding-left=10
 			padding-right=10
 			font-size=20
+			font-size=16 [$LINUX]
 			textcolor=Text
 			font-family=basefont
 			font-weight=400
@@ -143,6 +145,7 @@
 			inset="23 1 0 0"
 			font-family=basefont
 			font-size=16
+			font-size=14 [$LINUX]
 			font-weight=400
 			textcolor="white"
 			font-style=uppercase

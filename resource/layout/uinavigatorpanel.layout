@@ -239,6 +239,7 @@
 		{
 			textcolor=Text
 			font-size=30
+			font-size=24 [$LINUX]
 			padding-left=10
 			padding-top=5
 			padding-right=10
@@ -264,6 +265,7 @@
 			inset="0 -2 0 0"
 			textcolor=LabelDisabled
 			font-size=16 // Structural, do not modify.
+			font-size=14 [$LINUX]
 			font-family=basefont
 			padding-left=0
 		}
@@ -348,7 +350,7 @@
 		MusicAddButton
 		{
 			font-size=14
-			font-size=13 [$OSX]
+			font-size=13 [$OSX||$LINUX]
 			font-family=basefont
 			textcolor="labelfocus"
 			font-style=uppercase
@@ -696,6 +698,7 @@
 		{
 			textcolor="Labelfocus"
 			font-size=26
+			font-size=21 [$LINUX]
 			font-family="Segoe WP"
 			font-weight=400 
 			font-style="outerglow"
@@ -749,6 +752,7 @@
 		{
 			textcolor="Labelfocus"
 			font-size=14
+			font-size=13 [$LINUX]
 			font-family=basefont
 			font-weight=400
 			font-style="regular"

@@ -28,18 +28,21 @@
 		{
 			minimum-height=50
 			font-size=40
+			font-size=32 [$LINUX]
 			bgcolor="PropertySheetBG"
 		}
 
 		Hey
 		{
 			font-size=18
+			font-size=15 [$LINUX]
 			textcolor=Text //"213 214 215 255"
 		}
 
 		Hey2
 		{
 			font-size=16
+			font-size=14 [$LINUX]
 			textcolor=Label //"213 214 215 212"
 		}
 
