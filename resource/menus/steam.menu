@@ -18,9 +18,6 @@
 		UpdateVideoDrivers	[$WINDOWS]	{	text="#steam_menu_updatevendorgraphicscard"		command="CheckForVideoDriverUpdates" }
 		Divider				[$WINDOWS||$LINUX]	{}
 
-		CheckForVideoDriverUpdates	[$WINDOWS]	{	text="#steam_menu_checkforvideodriverupdates"	command="CheckForVideoDriverUpdates" }
-		Divider				[$WINDOWS||$LINUX]	{}
-
 		BackupGames						{	text="#steam_menu_backupgames"			command="backupgames" }
 		Divider				[!$OSX]		{}
 		Settings			[!$OSX]		{	text="#steam_menu_settings"				command="Settings" }
