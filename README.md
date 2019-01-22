@@ -3,7 +3,7 @@ PixelVision²-Linux
 
 Made possible thanks to Pulseh
 
-Continued by Mr. late, Shazam, somini
+Continued by Mr. late, Shazam, somini, Black4Blade
 
 Tweaked for Linux by BangL
 
